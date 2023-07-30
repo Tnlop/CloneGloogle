@@ -6,9 +6,9 @@ Este proyecto consistio en una practica realizada  en el bootcamp de Tecnolochic
 
 ## ¿Que construi?😉😉
 Se constriye una interfazidentica a la de Google actualmente, la cual estuvo dividida en 3 secciones de HTML principales:
-### Seccion header
-   2.Seccion Main
-   3.Seccion Footer
+1.Seccion header
+2.Seccion Main
+3.Seccion Footer
 
 ## Objetivos✌
 Uno de los objetivos principales fue el poner en juego nuestras habilidades aprendidas para poder ralizar la actividad de forma eficiente y lograr construir el diseño de interfaz de la pagina
