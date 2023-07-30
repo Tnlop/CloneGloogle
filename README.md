@@ -6,7 +6,7 @@ Este proyecto consistio en una practica realizada  en el bootcamp de Tecnolochic
 
 ## ¿Que construi?😉😉
 Se constriye una interfazidentica a la de Google actualmente, la cual estuvo dividida en 3 secciones de HTML principales:
-   1.Seccion header
+### Seccion header
    2.Seccion Main
    3.Seccion Footer
 
